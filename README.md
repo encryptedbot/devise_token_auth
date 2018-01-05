@@ -1,3 +1,4 @@
+# Customisation to be done wrt provider-uid usage in this gem
 # Contributors wanted!
 
 See our [Contribution Guidelines](https://github.com/lynndylanhurley/devise_token_auth/blob/master/.github/CONTRIBUTING.md). We're making an effort to bring back this gem and fix everything open! Feel free to submit pull requests, review pull requests, or review open issues. If you'd like to get in contact, [Zach Feldman](https://github.com/zachfeldman) has been wrangling this effort, you can reach him with his name @gmail. Further discussion of this in [this issue](https://github.com/lynndylanhurley/devise_token_auth/issues/969).
